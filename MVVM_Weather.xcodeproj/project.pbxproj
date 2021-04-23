@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A35FCA372633653A008B3606 /* Screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = A35FCA362633653A008B3606 /* Screenshot1.png */; };
+		A35FCA3A26336715008B3606 /* Screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = A35FCA3926336715008B3606 /* Screenshot1.png */; };
 		A3C0A0642618BBCB001A9AE4 /* MVVM_WeatherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3C0A0632618BBCB001A9AE4 /* MVVM_WeatherApp.swift */; };
 		A3C0A0662618BBCB001A9AE4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3C0A0652618BBCB001A9AE4 /* ContentView.swift */; };
 		A3C0A0682618BBCD001A9AE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3C0A0672618BBCD001A9AE4 /* Assets.xcassets */; };
@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A35FCA362633653A008B3606 /* Screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Screenshot1.png; path = ../../../../../../../Desktop/Screenshot1.png; sourceTree = "<group>"; };
+		A35FCA3926336715008B3606 /* Screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot1.png; sourceTree = "<group>"; };
 		A3C0A0602618BBCB001A9AE4 /* MVVM_Weather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MVVM_Weather.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3C0A0632618BBCB001A9AE4 /* MVVM_WeatherApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVM_WeatherApp.swift; sourceTree = "<group>"; };
 		A3C0A0652618BBCB001A9AE4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -42,7 +42,7 @@
 		A35FCA352633647E008B3606 /* Screenshot */ = {
 			isa = PBXGroup;
 			children = (
-				A35FCA362633653A008B3606 /* Screenshot1.png */,
+				A35FCA3926336715008B3606 /* Screenshot1.png */,
 			);
 			path = Screenshot;
 			sourceTree = "<group>";
@@ -143,7 +143,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A35FCA372633653A008B3606 /* Screenshot1.png in Resources */,
+				A35FCA3A26336715008B3606 /* Screenshot1.png in Resources */,
 				A3C0A06B2618BBCD001A9AE4 /* Preview Assets.xcassets in Resources */,
 				A3C0A0682618BBCD001A9AE4 /* Assets.xcassets in Resources */,
 			);
